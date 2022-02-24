@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffff;
+    margin: 20px;
+    display: block;
+    background-image: url("CherryBlossom.gif");
+    background-color: #fff;
+  }
+
+  div {
+    display: block;
+  }
+
+  .container {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 125px ;
+    box-shadow: 3px 3px 3px black;
+    font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #ffffff;
+    opacity: 0.85;
+  }
+
+  .font-effect-neon {
+    text-shadow: 0 0 0.1em #fff, 0 0 0.2em #fff, 0 0 0.3em #fff, 0 0 0.4em rgb(110, 10, 190),0 0 0.6em rgb(120, 10, 190), 0 0 0.8em rgb(130, 10, 190), 0 0 1.0em rgb(140, 10, 190), 0 0 1.2em rgb(150, 10, 190);
+    color: #fff;
+  }
